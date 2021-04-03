@@ -14,5 +14,5 @@
 
 ![C][badge-lang-c] ![C++][badge-lang-cpp] ![C#][badge-lang-csharp]  
 ![Nim][badge-lang-nim] ![Haxe][badge-lang-haxe] ![Zig][badge-lang-zig]  
-![Rust][badge-lang-nim] ![Crystal][badge-lang-haxe]  
+![Rust][badge-lang-rust] ![Crystal][badge-lang-crystal]  
 ![Vlang][badge-lang-vlang] ![Go][badge-lang-go] ![Kotiln][badge-lang-kotlin]
