@@ -47,3 +47,8 @@
 ![CSS][badge-lang-css]
 ![JS][badge-lang-js]
 ![TS][badge-lang-ts]
+
+### Me
+⌨️ Love programming  
+🕹️ Love video games  
+🛣️ Love walking
