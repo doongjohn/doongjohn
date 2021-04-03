@@ -13,6 +13,9 @@
 [badge-lang-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [badge-lang-js]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [badge-lang-ts]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
+[badge-platform-win]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[badge-platform-opensuse]: https://img.shields.io/badge/opensuse%20-%2373BA25.svg?&style=for-the-badge&logo=opensuse&logoColor=white
+[badge-platform-android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff4056&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
@@ -27,3 +30,7 @@
 ---
 
 ![HTML][badge-lang-html] ![CSS][badge-lang-css] ![JS][badge-lang-js] ![TS][badge-lang-ts]
+
+---
+
+![Windows][badge-platform-win] ![Opensuse][badge-platform-opensuse] ![Android][badge-platform-android]
