@@ -17,20 +17,42 @@
 [badge-platform-opensuse]: https://img.shields.io/badge/opensuse%20-%2373BA25.svg?&style=for-the-badge&logo=opensuse&logoColor=white
 [badge-platform-android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 
-
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff4056&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
 
 ---
 
-![C][badge-lang-c] ![C++][badge-lang-cpp] ![C#][badge-lang-csharp]  
-![Nim][badge-lang-nim] ![Haxe][badge-lang-haxe] ![Zig][badge-lang-zig]  
-![Rust][badge-lang-rust] ![Crystal][badge-lang-crystal]  
-![Go][badge-lang-go] ![Vlang][badge-lang-vlang] ![Kotiln][badge-lang-kotlin]
+### 🎲 Game dev
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/godot-%2336b5e3?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
-![HTML][badge-lang-html] ![CSS][badge-lang-css] ![JS][badge-lang-js] ![TS][badge-lang-ts]
+![Windows][badge-platform-win]
+![Opensuse][badge-platform-opensuse]
+![Android][badge-platform-android]
 
 ---
 
-![Windows][badge-platform-win] ![Opensuse][badge-platform-opensuse] ![Android][badge-platform-android]
+![C][badge-lang-c]
+![C++][badge-lang-cpp]
+![C#][badge-lang-csharp]
+
+![Nim][badge-lang-nim]
+![Haxe][badge-lang-haxe]
+![Zig][badge-lang-zig]
+
+![Rust][badge-lang-rust]
+![Crystal][badge-lang-crystal]
+
+![Go][badge-lang-go]
+![Vlang][badge-lang-vlang]
+![Kotiln][badge-lang-kotlin]
+
+---
+
+![HTML][badge-lang-html]
+![CSS][badge-lang-css]
+![JS][badge-lang-js]
+![TS][badge-lang-ts]
+
+---
