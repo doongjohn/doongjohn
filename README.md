@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff3b6f&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
-
 [badge-lang-c]: https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white
 [badge-lang-cpp]: https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white
 [badge-lang-csharp]: https://img.shields.io/badge/c%23%20-%2300599C.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
@@ -16,9 +14,16 @@
 [badge-lang-js]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [badge-lang-ts]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff3b6f&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
+
+---
+
 ![C][badge-lang-c] ![C++][badge-lang-cpp] ![C#][badge-lang-csharp]  
 ![Nim][badge-lang-nim] ![Haxe][badge-lang-haxe] ![Zig][badge-lang-zig]  
 ![Rust][badge-lang-rust] ![Crystal][badge-lang-crystal]  
 ![Vlang][badge-lang-vlang] ![Go][badge-lang-go] ![Kotiln][badge-lang-kotlin]
+
+---
 
 ![HTML][badge-lang-html] ![CSS][badge-lang-css] ![JS][badge-lang-js] ![TS][badge-lang-ts]
