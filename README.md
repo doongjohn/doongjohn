@@ -11,8 +11,14 @@
 [badge-lang-vlang]: https://img.shields.io/badge/vlang-%230095D5.svg?&style=for-the-badge&logo=v&logoColor=white
 [badge-lang-go]: https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white
 [badge-lang-kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white
+[badge-lang-html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[badge-lang-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[badge-lang-js]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[badge-lang-ts]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
 
 ![C][badge-lang-c] ![C++][badge-lang-cpp] ![C#][badge-lang-csharp]  
 ![Nim][badge-lang-nim] ![Haxe][badge-lang-haxe] ![Zig][badge-lang-zig]  
 ![Rust][badge-lang-rust] ![Crystal][badge-lang-crystal]  
 ![Vlang][badge-lang-vlang] ![Go][badge-lang-go] ![Kotiln][badge-lang-kotlin]
+
+![HTML][badge-lang-html] ![CSS][badge-lang-css] ![JS][badge-lang-js] ![TS][badge-lang-ts]
