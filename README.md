@@ -19,21 +19,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff4056&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
 
----
-
 ### 🎲 Game dev
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/unreal-%23050505?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![](https://img.shields.io/badge/godot-%2336b5e3?style=for-the-badge&logo=godot-engine&logoColor=white)
 
----
-
+### Platforms
 ![Windows][badge-platform-win]
 ![Opensuse][badge-platform-opensuse]
 ![Android][badge-platform-android]
 
----
-
+### Programming Languages
 ![C][badge-lang-c]
 ![C++][badge-lang-cpp]
 ![C#][badge-lang-csharp]  
@@ -46,11 +42,8 @@
 ![Vlang][badge-lang-vlang]
 ![Kotiln][badge-lang-kotlin]
 
----
-
+### Web dev
 ![HTML][badge-lang-html]
 ![CSS][badge-lang-css]
 ![JS][badge-lang-js]
 ![TS][badge-lang-ts]
-
----
