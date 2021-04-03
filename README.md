@@ -35,15 +35,12 @@
 
 ![C][badge-lang-c]
 ![C++][badge-lang-cpp]
-![C#][badge-lang-csharp]
-
+![C#][badge-lang-csharp]  
 ![Nim][badge-lang-nim]
 ![Haxe][badge-lang-haxe]
-![Zig][badge-lang-zig]
-
+![Zig][badge-lang-zig]  
 ![Rust][badge-lang-rust]
-![Crystal][badge-lang-crystal]
-
+![Crystal][badge-lang-crystal]  
 ![Go][badge-lang-go]
 ![Vlang][badge-lang-vlang]
 ![Kotiln][badge-lang-kotlin]
