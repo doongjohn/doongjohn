@@ -30,7 +30,7 @@
 ![TS][badge-lang-ts]
 
 ### Me
-⌨️ Love programming  
+💻 Love programming  
 🕹️ Love video games  
 🌄 Love walking
 
