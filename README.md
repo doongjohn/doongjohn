@@ -48,7 +48,7 @@
 [badge-lang-kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white
 [badge-lang-html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [badge-lang-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[badge-lang-js]: https://img.shields.io/badge/javascript%20-%23ffcf00.svg?&style=for-the-badge&logo=javascript&logoColor=black
+[badge-lang-js]: https://img.shields.io/badge/javascript%20-%23ffcf00.svg?&style=for-the-badge&logo=javascript&logoColor=dark
 [badge-lang-ts]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
 [badge-platform-win]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [badge-platform-opensuse]: https://img.shields.io/badge/opensuse%20-%2373BA25.svg?&style=for-the-badge&logo=opensuse&logoColor=white
