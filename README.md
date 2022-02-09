@@ -20,7 +20,7 @@
 ![Rust][badge-lang-rust]
 ![Crystal][badge-lang-crystal]  
 ![Go][badge-lang-go]
-![Vlang][badge-lang-vlang]
+![Dart][badge-lang-dart]
 ![Kotiln][badge-lang-kotlin]
 
 ### Web dev
@@ -44,7 +44,7 @@
 [badge-lang-rust]: https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white
 [badge-lang-crystal]: https://img.shields.io/badge/crystal%20-%23030303.svg?&style=for-the-badge&logo=crystal&logoColor=white
 [badge-lang-go]: https://img.shields.io/badge/go-%230095D5.svg?&style=for-the-badge&logo=go&logoColor=white
-[badge-lang-vlang]: https://img.shields.io/badge/vlang-%230095D5.svg?&style=for-the-badge&logo=v&logoColor=white
+[badge-lang-dart]: https://img.shields.io/badge/dart-%230095D5.svg?&style=for-the-badge&logo=dart&logoColor=white
 [badge-lang-kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white
 [badge-lang-html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [badge-lang-css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
