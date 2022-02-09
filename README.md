@@ -51,5 +51,5 @@
 [badge-lang-js]: https://img.shields.io/badge/javascript%20-%23ffcf00.svg?&style=for-the-badge&logo=javascript&logoColor=gray
 [badge-lang-ts]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
 [badge-platform-win]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[badge-platform-linux]: https://img.shields.io/badge/linux%20-%23dbbe00.svg?&style=for-the-badge&logo=linux&logoColor=white
+[badge-platform-linux]: https://img.shields.io/badge/linux%20-%23030303.svg?&style=for-the-badge&logo=linux&logoColor=white
 [badge-platform-android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
