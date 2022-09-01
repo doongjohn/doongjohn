@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=ff4056&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
 
-### Platforms
-![Windows][badge-platform-win]
-![Linux][badge-platform-linux]
-![Android][badge-platform-android]
-
 ### Game dev
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/unreal-%23050505?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -15,19 +10,9 @@
 ![C++][badge-lang-cpp]
 ![C#][badge-lang-csharp]  
 ![Nim][badge-lang-nim]
-![Haxe][badge-lang-haxe]
 ![Zig][badge-lang-zig]  
 ![Rust][badge-lang-rust]
-![Crystal][badge-lang-crystal]  
 ![Go][badge-lang-go]
-![Dart][badge-lang-dart]
-![Kotiln][badge-lang-kotlin]
-
-### Web dev
-![HTML][badge-lang-html]
-![CSS][badge-lang-css]
-![JS][badge-lang-js]
-![TS][badge-lang-ts]
 
 ### Me
 💻 Love programming  
