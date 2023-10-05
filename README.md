@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=ff4056&height=200&section=header&text=Doongjohn%20🍋&fontSize=90&fontColor=f2f2f2)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=fa4056&height=160&section=header&text=Doongjohn%20🍋&fontSize=80&fontColor=f2f2f2&fontAlignY=65)
 
 ### Game dev
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
