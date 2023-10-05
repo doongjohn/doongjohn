@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=fa4056&height=160&section=header&text=Doongjohn%20🍋&fontSize=80&fontColor=f2f2f2&fontAlignY=65)
 
-### Game dev
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/unreal-%23050505?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![](https://img.shields.io/badge/godot-%2336b5e3?style=for-the-badge&logo=godot-engine&logoColor=white)
-
 ### Programming Languages
 ![C][badge-lang-c]
 ![C++][badge-lang-cpp]
@@ -13,6 +8,11 @@
 ![Zig][badge-lang-zig]  
 ![Rust][badge-lang-rust]
 ![Go][badge-lang-go]
+
+### Game engine
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/unreal-%23050505?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![](https://img.shields.io/badge/godot-%2336b5e3?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### Me
 💻 Love programming  
